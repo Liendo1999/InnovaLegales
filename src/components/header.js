@@ -4,14 +4,14 @@ import { Link } from "gatsby"
 const Header = () => (
   <header
     style={{
-      background: '#33182E',
+      background: 'rgba(51,24,46,0.6)',
       marginBottom: `1.45rem`,
     }}
   >
     <div
       style={{
         margin: `0 auto`,
-        maxWidth: 960,
+        maxWidth: '80%',
         padding: `1.45rem 1.0875rem`,
       }}
     >

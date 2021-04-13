@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4a1c110f-aba5-41f6-8f60-1d57741f1305" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/slider.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/slider.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/servicios.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/page-2.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1qwXDKWDam8G0l2OBKow8gd7a6A" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="B:\TODO\Cursos\WebStorm\Innova  con Gatsby\innova_web\node_modules\prettier" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.1.2\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Gatsby Develop" type="ShConfigurationType">
+      <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+      <option name="SCRIPT_PATH" value="" />
+      <option name="SCRIPT_OPTIONS" value="gatsby develop" />
+      <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a1c110f-aba5-41f6-8f60-1d57741f1305" name="Default Changelist" comment="" />
+      <created>1617991504663</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617991504663</updated>
+      <workItem from="1617991506791" duration="961000" />
+      <workItem from="1617992488443" duration="513000" />
+      <workItem from="1617993103821" duration="1722000" />
+      <workItem from="1618007133447" duration="2558000" />
+      <workItem from="1618177541197" duration="722000" />
+      <workItem from="1618244548583" duration="10140000" />
+      <workItem from="1618325658491" duration="7570000" />
+      <workItem from="1618343570966" duration="2668000" />
+    </task>
+    <task id="LOCAL-00001" summary="Configuraciones minimas">
+      <created>1618009110092</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618009110092</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Configuraciones minimas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Configuraciones minimas" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="644" y="243" key="#Gatsby_Develop" timestamp="1618326344255">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="644" y="243" key="#Gatsby_Develop/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1618326344255" />
+    <state x="2564" y="243" key="#Gatsby_Develop/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1618250381810" />
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618007228073">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1618007228073" />
+    <state x="690" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1618244732954">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1618244732954" />
+    <state x="615" y="287" key="EditFileWatcherDialog" timestamp="1618330419304">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="615" y="287" key="EditFileWatcherDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1618330419304" />
+    <state x="540" y="253" key="IDE.errors.dialog" timestamp="1618177645082">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="253" key="IDE.errors.dialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1618177645082" />
+    <state x="736" y="119" key="SettingsEditor" timestamp="1617992468824">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="736" y="119" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1617992468824" />
+    <state x="616" y="173" width="672" height="676" key="search.everywhere.popup" timestamp="1618326133869">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="173" width="672" height="676" key="search.everywhere.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1618326133869" />
+  </component>
+</project>

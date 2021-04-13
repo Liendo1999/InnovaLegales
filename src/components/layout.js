@@ -18,8 +18,9 @@ const Layout = ({ children }) => {
       <Header/>
       <div style={{
           margin: `0 auto`,
-          maxWidth: 960,
+          maxWidth: '90%',
           padding: `0 1.0875rem 1.45rem`,
+
         }}>
         <main>{children}</main>
         <footer
@@ -28,9 +29,7 @@ const Layout = ({ children }) => {
             marginTop: `2rem`,
           }}
         >
-          © {new Date().getFullYear()}, Built with
-          {` `}
-          <a href="https://www.gatsbyjs.com">Gatsby</a>
+          <span>© {new Date().getFullYear()} Innova Soluciones Legales</span>
         </footer>
       </div>
     </>

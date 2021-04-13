@@ -1,0 +1,25 @@
+#swiper-button-prev,#swiper-button-next{
+  background-color: rebeccapurple;
+  position: absolute;
+  top: 50%;
+  z-index: 9999;
+}
+#swiper-button-next{
+  right: 0;
+}
+.swiper-container{
+  background-color: red;
+}
+.swiper-slide{
+  width: min(60%,300px);
+  background-color: white;
+  margin: 0 auto;
+  div{
+    text-align: center;
+    margin: 0 auto;
+    width: min(90%,400px);
+    ul{
+      list-style: none;
+    }
+  }
+}
