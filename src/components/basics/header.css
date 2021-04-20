@@ -1,0 +1,34 @@
+header {
+  height: 65px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 1rem min(20%, 2rem);
+  color: white;
+  background-color: #33192E;
+  align-items: center;
+}
+header #logoHeader {
+  height: 37px;
+}
+header .menu ul {
+  padding: 0;
+  display: flex;
+  flex-direction: row;
+  font-size: 1rem;
+  font-weight: 500;
+  list-style: none;
+}
+header .menu ul li {
+  margin-left: 1rem;
+}
+header .menu ul a {
+  font-family: "Raleway", sans-serif;
+  color: white;
+  text-decoration: none;
+}
+header .menu ul a:hover, header .menu ul a:active {
+  color: #896984;
+}
+
+/*# sourceMappingURL=header.css.map */

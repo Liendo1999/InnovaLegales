@@ -2,8 +2,8 @@ import * as React from "react"
 import { useStaticQuery, graphql } from "gatsby"
 import Layout from "../components/basics/layout"
 import SEO from "../components/basics/seo"
-import "../css/styles.scss"
-import BloqueInicio from "../components/inicio/inicioBloque"
+import "../css/servicios.scss"
+import BloqueContacto from "../components/contacto/bloqueContacto"
 
 
 const IndexPage = () => {
@@ -22,7 +22,7 @@ const IndexPage = () => {
     <div className="container">
       <Layout>
         <SEO title={tituloPagina} lang="es" description="Estudio jurídico"/>
-        <BloqueInicio/>
+        <BloqueContacto/>
       </Layout>
     </div>
   )

@@ -1,0 +1,15 @@
+#___gatsby {
+  height: 100%;
+}
+#___gatsby #gatsby-focus-wrapper {
+  height: 100%;
+}
+#___gatsby #gatsby-focus-wrapper .container {
+  height: 100%;
+}
+#___gatsby #gatsby-focus-wrapper .container #contenidoServicios {
+  margin-top: min(12%, 100px);
+  margin-bottom: 70px;
+}
+
+/*# sourceMappingURL=servicios.css.map */

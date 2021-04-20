@@ -3,7 +3,7 @@ html {
   -webkit-text-size-adjust: 100%;
   font: 16px 'Poppins', serif, sans-serif;
   box-sizing: border-box;
-  overflow-y: scroll;
+
 }
 body {
   margin: 0;
@@ -16,7 +16,7 @@ body {
   -webkit-font-feature-settings: "kern", "liga", "clig", "calt";
   font-feature-settings: "kern", "liga", "clig", "calt";
 }
-article, aside, details, figcaption, figure, footer, header, main, menu, nav, section, summary {
+article, aside, details, figcaption, figure, section, summary {
   display: block;
 }
 audio, canvas, progress, video {
@@ -27,13 +27,15 @@ audio, canvas, progress, video {
 h1 {
   margin-bottom: 1.45rem;
   color: inherit;
-  font-family: 'Poppins', serif;
+  font-family: 'Raleway', sans-serif;
   font-weight: bold;
   text-rendering: optimizeLegibility;
   font-size: 2.25rem;
   line-height: 1.1;
 }
-
+h2,h3,h4,h5{
+  font-family:'Raleway', sans-serif;
+}
 optgroup {
   font-weight: 700;
 }

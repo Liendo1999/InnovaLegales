@@ -1,0 +1,29 @@
+header{
+  height: 65px;
+  display:flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 1rem min(20%,2rem);
+  color: white;
+  background-color: #33192E;
+  align-items: center;
+  #logoHeader{
+    height: 37px;
+  }
+  .menu{
+    ul{
+      padding: 0;
+      display: flex;flex-direction: row;
+      font-size: 1rem;font-weight: 500;
+      list-style: none;
+      li{margin-left: 1rem}
+      a{
+        font-family: 'Raleway', sans-serif;
+        color: white;
+        text-decoration: none;
+        &:hover,&:active{color: #896984}
+      }
+    }
+
+  }
+}

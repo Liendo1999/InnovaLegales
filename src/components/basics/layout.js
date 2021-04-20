@@ -4,40 +4,30 @@
  *
  * See: https://www.gatsbyjs.com/docs/use-static-query/
  */
-
 import * as React from "react"
 import PropTypes from "prop-types"
-
 import Header from "./header"
+import Footer from "./footer"
 import "./layout.css"
 
 const Layout = ({ children }) => {
-
   return (
     <>
       <Header/>
       <div style={{
-          margin: `0 auto`,
-          maxWidth: '90%',
-          padding: `0 1.0875rem 1.45rem`,
-
-        }}>
+        margin: `0 auto`,
+        maxWidth: "90%",
+        padding: `0 1.0875rem 1.45rem`,
+      }}>
         <main>{children}</main>
-        <footer
-          style={{
-            backgroundColor:'red',
-            marginTop: `2rem`,
-          }}
-        >
-          <span>© {new Date().getFullYear()} Innova Soluciones Legales</span>
-        </footer>
       </div>
+      <Footer/>
     </>
   )
 }
 
 Layout.propTypes = {
-  children: PropTypes.node.isRequired,
+  children: PropTypes.node.isRequired
 }
 
 export default Layout

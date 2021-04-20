@@ -70,7 +70,7 @@ function SEO({ description, lang, meta, title }) {
     >
       <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css"/>
       <link rel="preconnect" href="https://fonts.gstatic.com"/>
-      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap"/>
+      <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;1,200&family=Raleway:wght@700&display=swap" rel="stylesheet"/>
     </Helmet>
   )
 }
