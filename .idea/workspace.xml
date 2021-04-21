@@ -11,49 +11,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a1c110f-aba5-41f6-8f60-1d57741f1305" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/basics/footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/basics/footer.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/basics/footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/basics/footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/basics/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/basics/header.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/basics/header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/basics/header.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/contacto/bloqueContacto.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/inicio/inicioBloque.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/servicios.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/servicios.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/servicios.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/styles.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/css/styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hooks/useServicios.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/iconosPNG/fbIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/iconosPNG/igIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/iconosPNG/innovaIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/iconosPNG/logoInnovaNegativo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/iconosPNG/mailIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/iconosPNG/wpIcon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/scalablesInnova/homeImage.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/scalablesInnova/logo scalable.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/scalablesInnova/rombosServicios.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/contacto.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/basics/layout.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/basics/layout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/seo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/basics/seo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/slider.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/servicios/slider.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/slider.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/servicios/slider.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/slider.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/servicios/slider.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/slider.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/servicios/slider.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/404.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/404.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/servicios.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/servicios.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/using-typescript.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/using-typescript.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/basics/seo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/basics/seo.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +117,7 @@
       <workItem from="1618673594110" duration="7623000" />
       <workItem from="1618715634265" duration="161000" />
       <workItem from="1618834337590" duration="5000" />
-      <workItem from="1618926135776" duration="4951000" />
+      <workItem from="1618926135776" duration="6059000" />
     </task>
     <task id="LOCAL-00001" summary="Configuraciones minimas">
       <created>1618009110092</created>
@@ -173,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618346645773</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Completa Primer Fase, version 1.0.0 Funcionalidades Basicas">
+      <created>1618962561844</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1618962561844</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,7 +162,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Configuraciones minimas" />
     <MESSAGE value="Creacion de pagina servicios, interacción básica y configuraciones de pantalla completa." />
-    <option name="LAST_COMMIT_MESSAGE" value="Creacion de pagina servicios, interacción básica y configuraciones de pantalla completa." />
+    <MESSAGE value="Completa Primer Fase, version 1.0.0 Funcionalidades Basicas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completa Primer Fase, version 1.0.0 Funcionalidades Basicas" />
   </component>
   <component name="WindowStateProjectService">
     <state x="644" y="243" key="#Gatsby_Develop" timestamp="1618715643849">
@@ -219,6 +187,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="615" y="287" key="EditFileWatcherDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1618330419304" />
+    <state width="1897" height="272" key="GridCell.Tab.0.bottom" timestamp="1618963280019">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1897" height="272" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1618962484484" />
+    <state width="1897" height="272" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1618963280019" />
+    <state width="1897" height="272" key="GridCell.Tab.0.center" timestamp="1618963280019">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1897" height="272" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1618962484484" />
+    <state width="1897" height="272" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1618963280019" />
+    <state width="1897" height="272" key="GridCell.Tab.0.left" timestamp="1618963280019">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1897" height="272" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1618962484483" />
+    <state width="1897" height="272" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1618963280019" />
+    <state width="1897" height="272" key="GridCell.Tab.0.right" timestamp="1618963280019">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1897" height="272" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1618962484484" />
+    <state width="1897" height="272" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1618963280019" />
     <state x="540" y="253" key="IDE.errors.dialog" timestamp="1618177645082">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
